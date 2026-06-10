@@ -1,5 +1,7 @@
 # 🗺️ Busca Gulosa pela Melhor Escolha — Problema das Cidades da Romênia
 
+> 📚 Exercício desenvolvido na disciplina de **Inteligência Artificial I** da **FATEC São Carlos**, sob orientação do professor **Arnaldo Napolitano Sanchez**.
+
 > Implementação do algoritmo **Greedy Best-First Search** aplicado ao mapa rodoviário da Romênia, conforme apresentado em **Russell & Norvig — Inteligência Artificial: Uma Abordagem Moderna** (Figuras 3.2 e 3.22).
 
 ---
