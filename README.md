@@ -1,5 +1,14 @@
 # 🗺️ Busca Gulosa pela Melhor Escolha — Problema das Cidades da Romênia
 
+<div align="center">
+
+[![Python](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/)
+[![Inteligência Artificial](https://img.shields.io/badge/IA-Busca_Gulosa-orange.svg)]()
+[![Algoritmo](https://img.shields.io/badge/Algoritmo-Heurístico-brightgreen.svg)]()
+[![Status](https://img.shields.io/badge/Status-Concluído-success.svg)]()
+
+</div>
+
 > 📚 Exercício desenvolvido na disciplina de **Inteligência Artificial I** da **FATEC São Carlos**, sob orientação do professor **Arnaldo Napolitano Sanchez**.
 
 > Implementação do algoritmo **Greedy Best-First Search** aplicado ao mapa rodoviário da Romênia, conforme apresentado em **Russell & Norvig — Inteligência Artificial: Uma Abordagem Moderna** (Figuras 3.2 e 3.22).
